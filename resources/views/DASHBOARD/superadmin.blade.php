@@ -568,7 +568,7 @@
              <div class="actions"> 
 
                   <form action="">  
-                    <a href="#" class="action-btn view">  View   </a> 
+                    <a href="#" class="action-btn view">  View sssssssssssssssssssssssssss  </a> 
                     @csrf
                 </form> 
 
